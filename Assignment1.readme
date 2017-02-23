@@ -1,0 +1,7 @@
+README
+1. A folder named JAR File contains the Runnable jar file for the project.
+2. Place the dataset_files also in the same folder.
+3. To run the application please follow command:
+	java -jar ID3.jar 5 3 training_set.csv test_set.csv validation_set.csv no
+	
+4. ID3_report document is report containing different test cases.
